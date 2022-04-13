@@ -1,5 +1,5 @@
-# Tugas Besar 2 - Web Services Using SOAP and REST
-Dorayaki Supplier<br>
+# Dorayaki Supplier
+Tugas Besar 2 - Web Services Using SOAP and REST<br>
 IF3110 - Pengembangan Perangkat Lunak Berbasis Web
 
 ## Author
